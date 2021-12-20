@@ -9,7 +9,7 @@ function genRandomNum(len) {
 }
 
 function genQuote() {
-    fetch("motivation.json")
+    fetch("/motivation.json")
         .then(res => res.json())
         .then(data => {
             genRandomNum(data.motivation.length);
