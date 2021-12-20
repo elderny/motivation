@@ -1,0 +1,993 @@
+{
+  "motivation": [{
+      "text": "Before you speak, listen. Before you write, think. Before you spend, earn. Before you invest, investigate. Before you criticize, wait. Before you pray, forgive. Before you quit, try. Before you retire, save. Before you die, give -- Elderny"
+    },
+    {
+      "text": "It is not the man who has too little, but the man who craves more, that is poor -- Elderny"
+    },
+    {
+      "text": "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver -- Elderny"
+    },
+    {
+      "text": "Only buy something that you'd be perfectly happy to hold if the market shuts down for ten years -- Elderny"
+    },
+    {
+      "text": "Not he who has much is rich, but he who gives much -- Elderny"
+    },
+    {
+      "text": "Time is more valuable than money. You can get more money, but you cannot get more time -- Elderny"
+    },
+    {
+      "text": "The person who doesn't know where his next dollar is coming from usually doesn't know where his last dollar went -- Elderny"
+    },
+    {
+      "text": "It doesn't matter about money; having it, not having it. Or having clothes, or not having them. You're still left alone with yourself in the end -- Elderny"
+    },
+    {
+      "text": "Money does not buy you happiness, but lack of money certainly buys you misery -- Elderny"
+    },
+    {
+      "text": "Expect the best. Prepare for the worst. Capitalize on what comes -- Elderny"
+    },
+    {
+      "text": "It's good to have money and the things that money can buy, but it's good, too, to check up once in a while and make sure that you haven't lost the things that money can't buy -- Elderny"
+    },
+    {
+      "text": "I don't pay good wages because I have a lot of money; I have a lot of money because I pay good wages -- Elderny"
+    },
+    {
+      "text": "Making money is a common sense. It's not rocket science. But unfortunately, when it comes to money, common sense is uncommon -- Elderny"
+    },
+    {
+      "text": "That man is richest whose pleasures are cheapest -- Elderny"
+    },
+    {
+      "text": "Money is like love; it kills slowly and painfully the one who withholds it, and enlivens the other who turns it on his fellow man -- Elderny"
+    },
+    {
+      "text": "It is a kind of spiritual snobbery that makes people think they can be happy without money -- Elderny"
+    },
+    {
+      "text": "The money you have gives you freedom; the money you pursue enslaves you -- Elderny"
+    },
+    {
+      "text": "Wealth is the ability to fully experience life -- Elderny"
+    },
+    {
+      "text": "Money is like muck—not good unless it be spread -- Elderny"
+    },
+    {
+      "text": "It's not the employer who pays the wages. Employers only handle the money. It's the customer who pays the wages -- Elderny"
+    },
+    {
+      "text": "Money is multiplied in practical value depending on the number of W's you control in your life: what you do, when you do it, where you do it, and with whom you do it -- Elderny"
+    },
+    {
+      "text": "If you would be wealthy, think of saving as well as getting -- Elderny"
+    },
+    {
+      "text": "I will tell you the secret to getting rich on Wall Street. You try to be greedy when others are fearful. And you try to be fearful when others are greedy -- Elderny"
+    },
+    {
+      "text": "Capital as such is not evil; it is its wrong use that is evil. Capital in some form or other will always be needed -- Elderny"
+    },
+    {
+      "text": "They deem me mad because I will not sell my days for gold; and I deem them mad because they think my days have a price -- Elderny"
+    },
+    {
+      "text": "I made my money the old-fashioned way. I was very nice to a wealthy relative right before he died -- Elderny"
+    },
+    {
+      "text": "If we command our wealth, we shall be rich and free. If our wealth commands us, we are poor indeed -- Elderny"
+    },
+    {
+      "text": "When a fellow says it ain't the money but the principle of the thing, it's the money -- Elderny"
+    },
+    {
+      "text": "Wealth is like sea-water; the more we drink, the thirstier we become; and the same is true of fame -- Elderny"
+    },
+    {
+      "text": "The real measure of your wealth is how much you'd be worth if you lost all your money -- Elderny"
+    },
+    {
+      "text": "He who loses money, loses much; He who loses a friend, loses much more; He who loses faith, loses all -- Elderny"
+    },
+    {
+      "text": "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort -- Elderny"
+    },
+    {
+      "text": "To acquire money requires valor, to keep money requires prudence, and to spend money well is an art -- Elderny"
+    },
+    {
+      "text": "Money is good for nothing unless you know the value of it by experience -- Elderny"
+    },
+    {
+      "text": "Never spend your money before you have earned it -- Elderny"
+    },
+    {
+      "text": "The habit of saving is itself an education; it fosters every virtue, teaches self-denial, cultivates the sense of order, trains to forethought, and so broadens the mind -- Elderny"
+    },
+    {
+      "text": "Money may not buy happiness, but I'd rather cry in a Jaguar than on a bus -- Elderny"
+    },
+    {
+      "text": "Many folks think they aren't good at earning money, when what they don't know is how to use it -- Elderny"
+    },
+    {
+      "text": "When I had money everyone called me brother -- Elderny"
+    },
+    {
+      "text": "Many people take no care of their money till they come nearly to the end of it, and others do just the same with their time -- Elderny"
+    },
+    {
+      "text": "Earn with your mind, not your time -- Elderny"
+    },
+    {
+      "text": "Never stand begging for that which you have the power to earn -- Elderny"
+    },
+    {
+      "text": "I pity that man who wants a coat so cheap that the man or woman who produces the cloth shall starve in the process -- Elderny"
+    },
+    {
+      "text": "Empty pockets never held anyone back. Only empty heads and empty hearts can do that -- Elderny"
+    },
+    {
+      "text": "Money often costs too much -- Elderny"
+    },
+    {
+      "text": "If you want to know what a man is really like, take notice of how he acts when he loses money -- Elderny"
+    },
+    {
+      "text": "A wise person should have money in their head, but not in their heart -- Elderny"
+    },
+    {
+      "text": "Money never made a man happy yet, nor will it. There is nothing in its nature to produce happiness. The more a man has, the more he wants. Instead of filling a vacuum, it makes one -- Elderny"
+    },
+    {
+      "text": "Wealth is not about having a lot of money; it's about having a lot of options -- Elderny"
+    },
+    {
+      "text": "A simple fact that is hard to learn is that the time to save money is when you have some -- Elderny"
+    },
+    {
+      "text": "Know what you own, and know why you own it -- Elderny"
+    },
+    {
+      "text": "Money isn't everything…but it ranks right up there with oxygen -- Elderny"
+    },
+    {
+      "text": "You can only become truly accomplished at something you love. Don't make money your goal. Instead, pursue the things you love doing, and then do them so well that people can't take their eyes off you -- Elderny"
+    },
+    {
+      "text": "Don't tell me where your priorities are. Show me where you spend your money and I'll tell you what they are -- Elderny"
+    },
+    {
+      "text": "It is better to have a permanent income than to be fascinating -- Elderny"
+    },
+    {
+      "text": "Formal education will make you a living; self-education will make you a fortune -- Elderny"
+    },
+    {
+      "text": "Buy when everyone else is selling and hold until everyone else is buying. That's not just a catchy slogan. It's the very essence of successful investing -- Elderny"
+    },
+    {
+      "text": "Don't let the fear of losing be greater than the excitement of winning -- Elderny"
+    },
+    {
+      "text": "If money is your hope for independence you will never have it. The only real security that a man will have in this world is a reserve of knowledge, experience, and ability -- Elderny"
+    },
+    {
+      "text": "I love money. I love everything about it. I bought some pretty good stuff. Got me a $300 pair of socks. Got a fur sink. An electric dog polisher. A gasoline powered turtleneck sweater. And, of course, I bought some dumb stuff, too -- Elderny"
+    },
+    {
+      "text": "Everyone wants to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down -- Elderny"
+    },
+    {
+      "text": "Every time you borrow money, you're robbing your future self -- Elderny"
+    },
+    {
+      "text": "Investing should be more like watching paint dry or watching grass grow. If you want excitement, take $800 and go to Las Vegas -- Elderny"
+    },
+    {
+      "text": "There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else -- Elderny"
+    },
+    {
+      "text": "Success is not the result of making money; earning money is the result of success – and success is in direct proportion to our service -- Elderny"
+    },
+    {
+      "text": "The stock market is designed to transfer money from the active to the patient -- Elderny"
+    },
+    {
+      "text": "Like Warren, I had a considerable passion to get rich, not because I wanted Ferraris – I wanted the independence. I desperately wanted it -- Elderny"
+    },
+    {
+      "text": "Is the rich world aware of how four billion of the six billion live? If we were aware, we would want to help out, we'd want to get involved -- Elderny"
+    },
+    {
+      "text": "If you don't value your time, neither will others. Stop giving away your time and talents. Value what you know & start charging for it -- Elderny"
+    },
+    {
+      "text": "If you want to get rich, remember that the way to do it is via equity, not salary -- Elderny"
+    },
+    {
+      "text": "No wealth can ever make a bad man at peace with himself -- Elderny"
+    },
+    {
+      "text": "There are a great many people accumulating what they think is vast wealth, but it's only money -- Elderny"
+    },
+    {
+      "text": "Too many people spend money they earned..to buy things they don't want..to impress people that they don't like. --Will Rogers -- Elderny"
+    },
+    {
+      "text": "A wise person should have money in their head, but not in their heart -- Elderny"
+    },
+    {
+      "text": "Wealth consists not in having great possessions, but in having few wants -- Elderny"
+    },
+    {
+      "text": "Money often costs too much -- Elderny"
+    },
+    {
+      "text": "Everyday is a bank account, and time is our currency. No one is rich, no one is poor, we've got 24 hours each -- Elderny"
+    },
+    {
+      "text": "It's how you deal with failure that determines how you achieve success -- Elderny"
+    },
+    {
+      "text": "Frugality includes all the other virtues -- Elderny"
+    },
+    {
+      "text": "I love money. I love everything about it. I bought some pretty good stuff. Got me a $300 pair of socks. Got a fur sink. An electric dog polisher. A gasoline powered turtleneck sweater. And, of course, I bought some dumb stuff, too -- Elderny"
+    },
+    {
+      "text": "An investment in knowledge pays the best interest -- Elderny"
+    },
+    {
+      "text": "I will tell you the secret to getting rich on Wall Street. You try to be greedy when others are fearful. And you try to be fearful when others are greedy -- Elderny"
+    },
+    {
+      "text": "Annual income twenty pounds, annual expenditure nineteen six, result happiness. Annual income twenty pounds, annual expenditure twenty pound ought and six, result misery -- Elderny"
+    },
+    {
+      "text": "Opportunity is missed by most people because it is dressed in overalls and looks like work -- Elderny"
+    },
+    {
+      "text": "What we really want to do is what we are really meant to do. When we do what we are meant to do, money comes to us, doors open for us, we feel useful, and the work we do feels like play to us -- Elderny"
+    },
+    {
+      "text": "I never attempt to make money on the stock market. I buy on the assumption that they could close the market the next day and not reopen it for ten years -- Elderny"
+    },
+    {
+      "text": "A nickel ain't worth a dime anymore -- Elderny"
+    },
+    {
+      "text": "Money never made a man happy yet, nor will it. The more a man has, the more he wants. Instead of filling a vacuum, it makes one -- Elderny"
+    },
+    {
+      "text": "Many people take no care of their money till they come nearly to the end of it, and others do just the same with their time -- Elderny"
+    },
+    {
+      "text": "Formal education will make you a living; self-education will make you a fortune -- Elderny"
+    },
+    {
+      "text": "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver -- Elderny"
+    },
+    {
+      "text": "Financial peace isn't the acquisition of stuff. It's learning to live on less than you make, so you can give money back and have money to invest. You can't win until you do this -- Elderny"
+    },
+    {
+      "text": "It is not the man who has too little, but the man who craves more, that is poor -- Elderny"
+    },
+    {
+      "text": "It's not the employer who pays the wages. Employers only handle the money. It's the customer who pays the wages -- Elderny"
+    },
+    {
+      "text": "He who loses money, loses much; He who loses a friend, loses much more; He who loses faith, loses all -- Elderny"
+    },
+    {
+      "text": "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort -- Elderny"
+    },
+    {
+      "text": "Empty pockets never held anyone back. Only empty heads and empty hearts can do that -- Elderny"
+    },
+    {
+      "text": "It's good to have money and the things that money can buy, but it's good, too, to check up once in a while and make sure that you haven't lost the things that money can't buy -- Elderny"
+    },
+    {
+      "text": "You can only become truly accomplished at something you love. Don't make money your goal. Instead, pursue the things you love doing, and then do them so well that people can't take their eyes off you -- Elderny"
+    },
+    {
+      "text": "Buy when everyone else is selling and hold until everyone else is buying. That's not just a catchy slogan. It's the very essence of successful investing -- Elderny"
+    },
+    {
+      "text": "If money is your hope for independence you will never have it. The only real security that a man will have in this world is a reserve of knowledge, experience, and ability -- Elderny"
+    },
+    {
+      "text": "If all the economists were laid end to end, they'd never reach a conclusion -- Elderny"
+    },
+    {
+      "text": "How many millionaires do you know who have become wealthy by investing in savings accounts? I rest my case -- Elderny"
+    },
+    {
+      "text": "I made my money the old-fashioned way. I was very nice to a wealthy relative right before he died -- Elderny"
+    },
+    {
+      "text": "Innovation distinguishes between a leader and a follower -- Elderny"
+    },
+    {
+      "text": "The real measure of your wealth is how much you'd be worth if you lost all your money -- Elderny"
+    },
+    {
+      "text": "Money is a terrible master but an excellent servant -- Elderny"
+    },
+    {
+      "text": "Try to save something while your salary is small; it's impossible to save after you begin to earn more -- Elderny"
+    },
+    {
+      "text": "Wealth is the ability to fully experience life -- Elderny"
+    },
+    {
+      "text": "The individual investor should act consistently as an investor and not as a speculator -- Elderny"
+    },
+    {
+      "text": "I'm a great believer in luck, and I find the harder I work the more I have of it -- Elderny"
+    },
+    {
+      "text": "You must gain control over your money or the lack of it will forever control you -- Elderny"
+    },
+    {
+      "text": "Investing should be more like watching paint dry or watching grass grow. If you want excitement, take $800 and go to Las Vegas -- Elderny"
+    },
+    {
+      "text": "Every time you borrow money, you're robbing your future self -- Elderny"
+    },
+    {
+      "text": "Rich people have small TVs and big libraries, and poor people have small libraries and big TVs -- Elderny"
+    },
+    {
+      "text": "Never spend your money before you have it -- Elderny"
+    },
+    {
+      "text": "The stock market is filled with individuals who know the price of everything, but the value of nothing -- Elderny"
+    },
+    {
+      "text": "Wealth is not his that has it, but his that enjoys it -- Elderny"
+    },
+    {
+      "text": "It's not how much money you make, but how much money you keep, how hard it works for you, and how many generations you keep it for -- Elderny"
+    },
+    {
+      "text": "I have not failed. I've just found 10,000 ways that won't work -- Elderny"
+    },
+    {
+      "text": "If you don't value your time, neither will others. Stop giving away your time and talents. Value what you know & start charging for it -- Elderny"
+    },
+    {
+      "text": "Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do -- Elderny"
+    },
+    {
+      "text": "The habit of saving is itself an education; it fosters every virtue, teaches self-denial, cultivates the sense of order, trains to forethought, and so broadens the mind -- Elderny"
+    },
+    {
+      "text": "Don't tell me what you value, show me your budget, and I'll tell you what you value.”  -- Elderny"
+    },
+    {
+      "text": "If you live for having it all, what you have is never enough -- Elderny"
+    },
+    {
+      "text": "Before you speak, listen. Before you write, think. Before you spend, earn. Before you invest, investigate. Before you criticize, wait. Before you pray, forgive. Before you quit, try. Before you retire, save. Before you die, give -- Elderny"
+    },
+    {
+      "text": "We make a living by what we get, but we make a life by what we give -- Elderny"
+    },
+    {
+      "text": "Wealth after all is a relative thing since he that has little and wants less is richer than he that has much and wants more -- Elderny"
+    },
+    {
+      "text": "Not everything that can be counted counts, and not everything that counts can be counted -- Elderny"
+    },
+    {
+      "text": "It is time for us to stand and cheer for the doer, the achiever, the one who recognizes the challenge and does something about it -- Elderny"
+    },
+    {
+      "text": "It's not the situation, but whether we react (negative) or respond (positive) to the situation that's important -- Elderny"
+    },
+    {
+      "text": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him -- Elderny"
+    },
+    {
+      "text": "Let him who would enjoy a good future waste none of his present -- Elderny"
+    },
+    {
+      "text": "Courage is being scared to death, but saddling up anyway -- Elderny"
+    },
+    {
+      "text": "Live as if you were to die tomorrow. Learn as if you were to live forever -- Elderny"
+    },
+    {
+      "text": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do -- Elderny"
+    },
+    {
+      "text": "It is our choices, that show what we truly are, far more than our abilities -- Elderny"
+    },
+    {
+      "text": "The successful warrior is the average man, with laser-like focus -- Elderny"
+    },
+    {
+      "text": "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success -- Elderny"
+    },
+    {
+      "text": "The question isn't who is going to let me; it's who is going to stop me -- Elderny"
+    },
+    {
+      "text": "Don't let the fear of losing be greater than the excitement of winning -- Elderny"
+    },
+    {
+      "text": "You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something – your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life -- Elderny"
+    },
+    {
+      "text": "Let no feeling of discouragement prey upon you, and in the end you are sure to succeed -- Elderny"
+    },
+    {
+      "text": "Screw it, Let's do it!  -- Elderny"
+    },
+    {
+      "text": "If your ship doesn't come in, swim out to meet it!  -- Elderny"
+    },
+    {
+      "text": "People often say that motivation doesn't last. Well, neither does bathing – that's why we recommend it daily -- Elderny"
+    },
+    {
+      "text": "A real entrepreneur is somebody who has no safety net underneath them -- Elderny"
+    },
+    {
+      "text": "As long as you're going to be thinking anyway, think big -- Elderny"
+    },
+    {
+      "text": "The only place where success comes before work is in the dictionary -- Elderny"
+    },
+    {
+      "text": "Success is walking from failure to failure with no loss of enthusiasm -- Elderny"
+    },
+    {
+      "text": "Without continual growth and progress, such words as improvement, achievement, and success have no meaning -- Elderny"
+    },
+    {
+      "text": "If plan A fails, remember there are 25 more letters -- Elderny"
+    },
+    {
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail -- Elderny"
+    },
+    {
+      "text": "A journey of a thousand miles must begin with a single step -- Elderny"
+    },
+    {
+      "text": "Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it -- Elderny"
+    },
+    {
+      "text": "Believe you can and you're halfway there -- Elderny"
+    },
+    {
+      "text": "The Stock Market is designed to transfer money from the Active to the Patient -- Elderny"
+    },
+    {
+      "text": "I'm only rich because I know when I'm wrong…I basically have survived by recognizing my mistakes -- Elderny"
+    },
+    {
+      "text": "Persist – don't take no for an answer. If you're happy to sit at your desk and not take any risk, you'll be sitting at your desk for the next 20 years -- Elderny"
+    },
+    {
+      "text": "If you took our top fifteen decisions out, we'd have a pretty average record. It wasn't hyperactivity, but a hell of a lot of patience. You stuck to your principles and when opportunities came along, you pounced on them with vigor -- Elderny"
+    },
+    {
+      "text": "When buying shares, ask yourself, would you buy the whole company?  -- Elderny"
+    },
+    {
+      "text": "If you have trouble imagining a 20% loss in the stock market, you shouldn't be in stocks -- Elderny"
+    },
+    {
+      "text": "My old father used to have a saying:  If you make a bad bargain, hug it all the tighter -- Elderny"
+    },
+    {
+      "text": "It takes as much energy to wish as it does to plan -- Elderny"
+    },
+    {
+      "text": "The four most expensive words in the English language are, ‘This time it's different.'  -- Elderny"
+    },
+    {
+      "text": "I'd like to live as a poor man with lots of money -- Elderny"
+    },
+    {
+      "text": "Fortune sides with him who dares -- Elderny"
+    },
+    {
+      "text": "Wealth is like sea-water; the more we drink, the thirstier we become; and the same is true of fame -- Elderny"
+    },
+    {
+      "text": "If we command our wealth, we shall be rich and free. If our wealth commands us, we are poor indeed -- Elderny"
+    },
+    {
+      "text": "No wealth can ever make a bad man at peace with himself -- Elderny"
+    },
+    {
+      "text": "My formula for success is rise early, work late and strike oil -- Elderny"
+    },
+    {
+      "text": "The best thing money can buy is financial freedom -- Elderny"
+    },
+    {
+      "text": "The rich invest in time, the poor invest in money -- Elderny"
+    },
+    {
+      "text": "The more you learn, the more you earn -- Elderny"
+    },
+    {
+      "text": "If you make meaning, you'll make money -- Elderny"
+    },
+    {
+      "text": "Rich people believe 'I create my life'. Poor people believe 'Life happens to me' -- Elderny"
+    },
+    {
+      "text": "Earn with your mind, not your time -- Elderny"
+    },
+    {
+      "text": "Trade money for time, not time for money. You're going to run out of time first -- Elderny"
+    },
+    {
+      "text": "Stop buying things you don't need, to impress people you don't even like -- Elderny"
+    },
+    {
+      "text": "If it's only about money we are hopeless. If it's about people we are hopeful -- Elderny"
+    },
+    {
+      "text": "There are people who have money and people who are rich -- Elderny"
+    },
+    {
+      "text": "I make myself rich by making my wants few -- Elderny"
+    },
+    {
+      "text": "The money you have gives you freedom; the money you pursue enslaves you -- Elderny"
+    },
+    {
+      "text": "There are a great many people accumulating what they think is vast wealth, but it's only money -- Elderny"
+    },
+    {
+      "text": "Money is a great servant but a bad master -- Elderny"
+    },
+    {
+      "text": "Spend your money on the things money can buy. Spend your time on the things money can't buy -- Elderny"
+    },
+    {
+      "text": "I think everybody should get rich and famous and do everything they ever dreamed of so they can see that it's not the answer -- Elderny"
+    },
+    {
+      "text": "All the money you made will never buy back your soul -- Elderny"
+    },
+    {
+      "text": "When I had money everyone called me brother -- Elderny"
+    },
+    {
+      "text": "I'd like to live as a poor man with lots of money -- Elderny"
+    },
+    {
+      "text": "Don't just make money, make a difference -- Elderny"
+    },
+    {
+      "text": "Money moves from those who do not manage it to those who do -- Elderny"
+    },
+    {
+      "text": "My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time -- Elderny"
+    },
+    {
+      "text": "Wealth is not about having a lot of money; it's about having a lot of options -- Elderny"
+    },
+    {
+      "text": "That man is richest whose pleasures are cheapest -- Elderny"
+    },
+    {
+      "text": "Invest in as much of yourself as you can, you are your own biggest asset by far -- Elderny"
+    },
+    {
+      "text": "Formal education will make you a living. Self-education will make you a fortune -- Elderny"
+    },
+    {
+      "text": "I don't want to make money. I just want to be wonderful -- Elderny"
+    },
+    {
+      "text": "The ultimate purpose of money is so that you do not have to be in a specific place at a specific time doing anything you don't want to do -- Elderny"
+    },
+    {
+      "text": "Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy -- Elderny"
+    },
+    {
+      "text": "Money is numbers and numbers never end. If it takes money to be happy, your search for happiness will never end -- Elderny"
+    },
+    {
+      "text": "Not he who has much is rich, but he who gives much -- Elderny"
+    },
+    {
+      "text": "The best way to become a billionaire is to help a billion people -- Elderny"
+    },
+    {
+      "text": "The rich invest their money and spend what is left; the poor spend their money and invest what is left -- Elderny"
+    },
+    {
+      "text": "Focusing your solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you uulfilled -- Elderny"
+    },
+    {
+      "text": "You have reached the pinnacle of as soon as you become uninterested in money, compliments, or publicity -- Elderny"
+    },
+    {
+      "text": "Don't let making a living prevent you from making a life -- Elderny"
+    },
+    {
+      "text": "It is not the man who has too little, but the man who craves more, that is poor -- Elderny"
+    },
+    {
+      "text": "Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1 -- Elderny"
+    },
+    {
+      "text": "I always knew I was going to be rich. I don't think I ever doubted it for a minute -- Elderny"
+    },
+    {
+      "text": "The more money you make the more problems you get -- Elderny"
+    },
+    {
+      "text": "We don't make movies to make money, we make money to make more movies -- Elderny"
+    },
+    {
+      "text": "Money is not the only answer, but it makes a difference -- Elderny"
+    },
+    {
+      "text": "If you can get paid for doing what you love, every paycheck is a bonus -- Elderny"
+    },
+    {
+      "text": "Money can't buy , but it will certainly get you a better class of memories -- Elderny"
+    },
+    {
+      "text": "Simply put: we don't build services to make money; we make money to build better services. And we think this is a good way to build something -- Elderny"
+    },
+    {
+      "text": "Whoever loves money will never have enough -- Elderny"
+    },
+    {
+      "text": "There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else -- Elderny"
+    },
+    {
+      "text": "Early to bed and early to rise makes a man healthy, wealthy, and wise -- Elderny"
+    },
+    {
+      "text": "The rich cannot accumulate wealth without the co-operation of the poor in society -- Elderny"
+    },
+    {
+      "text": "We have always believed that it's possible to make money without being evil -- Elderny"
+    },
+    {
+      "text": "Money won't create success, the freedom to make it will -- Elderny"
+    },
+    {
+      "text": "Capital as such is not evil; it is its wrong use that is evil. Capital in some form or other will always be needed -- Elderny"
+    },
+    {
+      "text": "We buy things we don't need with money we don't have to impress people we don't like -- Elderny"
+    },
+    {
+      "text": "Success is having to worry about every damn thing in the world, except money -- Elderny"
+    },
+    {
+      "text": "My formula for success is rise early, work late and strike oil -- Elderny"
+    },
+    {
+      "text": "When it is a question of money, everybody is of the same religion -- Elderny"
+    },
+    {
+      "text": "It is better to have a permanent income than to be fascinating -- Elderny"
+    },
+    {
+      "text": "I don't care too much for money, for money can't buy me love -- Elderny"
+    },
+    {
+      "text": "Rich people are committed to being rich. Poor people want to be rich -- Elderny"
+    },
+    {
+      "text": "Be your money's master, not its slave -- Elderny"
+    },
+    {
+      "text": "Money doesn't buy happiness – it buys freedom -- Elderny"
+    },
+    {
+      "text": "Rich people focus on opportunities. Poor people focus on obstacles -- Elderny"
+    },
+    {
+      "text": "It does not take money to make money -- Elderny"
+    },
+    {
+      "text": "All money is a matter of belief -- Elderny"
+    },
+    {
+      "text": "Money may be spent but never squandered -- Elderny"
+    },
+    {
+      "text": "Some people are so poor, all they have is money -- Elderny"
+    },
+    {
+      "text": "A man in debt is so far a slave -- Elderny"
+    },
+    {
+      "text": "Money is like manure. You have to spread it around or it smells -- Elderny"
+    },
+    {
+      "text": "Money is a way of measuring wealth but is not wealth in itself -- Elderny"
+    },
+    {
+      "text": "Making money is not a thing that you do – it's a skill that you learn -- Elderny"
+    },
+    {
+      "text": "Money doesn't change people. It unmasks them -- Elderny"
+    },
+    {
+      "text": "A rich man is nothing but a poor man with money -- Elderny"
+    },
+    {
+      "text": "Money is the best deodorant -- Elderny"
+    },
+    {
+      "text": "The fools in life want things fast and easy — money, success, attention -- Elderny"
+    },
+    {
+      "text": "Life is a game. Money is how we keep score -- Elderny"
+    },
+    {
+      "text": "Rich people think big. Poor people think small -- Elderny"
+    },
+    {
+      "text": "Rich people play the money game to win. Poor people play the money game to not lose -- Elderny"
+    },
+    {
+      "text": "Money grows on the tree of persistence -- Elderny"
+    },
+    {
+      "text": "If money's where you find happiness, you'll always be poor -- Elderny"
+    },
+    {
+      "text": "If you cannot control your emotions, you cannot control your money -- Elderny"
+    },
+    {
+      "text": "Money, like vodka, turns a person into an eccentric -- Elderny"
+    },
+    {
+      "text": "Money has no grey areas. You either make it or you lose it -- Elderny"
+    },
+    {
+      "text": "Words are the money of fools -- Elderny"
+    },
+    {
+      "text": "Fortune sides with him who dares -- Elderny"
+    },
+    {
+      "text": "Anyone who lives within their means suffers from a lack of imagination -- Elderny"
+    },
+    {
+      "text": "I find out what the world needs. Then, I go ahead and invent it -- Elderny"
+    },
+    {
+      "text": "It's not how much money you make, but how much money you keep, how hard it works for you, and how many generations you keep it for -- Elderny"
+    },
+    {
+      "text": "There is gold everywhere. Most people are not trained to see it -- Elderny"
+    },
+    {
+      "text": "Like Warren, I had a considerable passion to get rich, not because I wanted Ferraris – . I desperately wanted it -- Elderny"
+    },
+    {
+      "text": "Opportunity is missed by most people because it is dressed in overalls and looks like work -- Elderny"
+    },
+    {
+      "text": "I'm hard working, frugal, steadfast, willing to learn and to build a credible name -- Elderny"
+    },
+    {
+      "text": "What matters is that you achieve success and become free. Then you can do whatever you like -- Elderny"
+    },
+    {
+      "text": "It's not about the money. It's about the life I want to live -- Elderny"
+    },
+    {
+      "text": "Make your goal more than money. Make it about helping people and creating a better future -- Elderny"
+    },
+    {
+      "text": "If your goal is to be comfortable, chances are you'll never get rich. But if your goal is to be rich, chances are you'll end up mighty comfortable -- Elderny"
+    },
+    {
+      "text": "Rich people act in spite of fear. Poor people let fear stop them -- Elderny"
+    },
+    {
+      "text": "Rich people choose to get paid based on results. Poor people choose to get paid based on time -- Elderny"
+    },
+    {
+      "text": "Keep your eye on the goal, keep moving toward your target -- Elderny"
+    },
+    {
+      "text": "It's simple arithmetic: 'Your income can grow only to the extent you do' -- Elderny"
+    },
+    {
+      "text": "Where the is, the way can be found -- Elderny"
+    },
+    {
+      "text": "Opportunity is a haughty goddess who wastes no time with those who are unprepared -- Elderny"
+    },
+    {
+      "text": "To fulfill a dream, to be allowed to sweat over lonely labor, to be given a chance to create, is the meat and potatoes of life. The money is the gravy -- Elderny"
+    },
+    {
+      "text": "The goal isn't more money. The goal is living life on your terms -- Elderny"
+    },
+    {
+      "text": "You have to be myopic and completely focused and unbalanced in every way. Once you've achieved success, you're free to do whatever you like -- Elderny"
+    },
+    {
+      "text": "Someone's sitting in the shade today because someone planted a tree a long time ago -- Elderny"
+    },
+    {
+      "text": "If you don't find a way to make money while you sleep, you will work until you die -- Elderny"
+    },
+    {
+      "text": "If you don't get serious about your money you will never have serious money -- Elderny"
+    },
+    {
+      "text": "Lottery: A tax on people who are bad at math -- Elderny"
+    },
+    {
+      "text": "Does running out of money count as exercise?  -- Elderny"
+    },
+    {
+      "text": "Women and wine, game and deceit, make the wealth small and the wants great -- Elderny"
+    },
+    {
+      "text": "It's amazing how fast later comes when you buy now -- Elderny"
+    },
+    {
+      "text": "Most people work just hard enough not to get fired and get paid just enough money not to quit -- Elderny"
+    },
+    {
+      "text": "A bank is a place that will lend you money if you can prove that you don't need it -- Elderny"
+    },
+    {
+      "text": "Cocaine is God's way of telling you you are making too much money -- Elderny"
+    },
+    {
+      "text": "If you didn't get the deferred-gratification gene, you've got to work very hard to overcome that -- Elderny"
+    },
+    {
+      "text": "Men are like bank accounts. Without a lot of money they don't generate a lot of interest -- Elderny"
+    },
+    {
+      "text": "Taking drugs and thinking that you are happy is like taking a loan and thinking you have money -- Elderny"
+    },
+    {
+      "text": "There's no money in poetry, but then there's no poetry in money, either -- Elderny"
+    },
+    {
+      "text": "If you want to know what God thinks of money, just look at the people he gave it to -- Elderny"
+    },
+    {
+      "text": "Ilation is taxation without legislation -- Elderny"
+    },
+    {
+      "text": "People say that money is not the key to happiness, but I always figured if you have enough money, you can have a key made -- Elderny"
+    },
+    {
+      "text": "Money and women are the most sought after and the least known about of any two things we have -- Elderny"
+    },
+    {
+      "text": "The quickest way to double your money is to fold it in half and put it in your back pocket -- Elderny"
+    },
+    {
+      "text": "Advertising is the art of convincing people to spend money they don't have for something they don't need -- Elderny"
+    },
+    {
+      "text": "There are two things people want more than sex and money… recognition and praise -- Elderny"
+    },
+    {
+      "text": "If you think nobody cares if you're alive, try missing a couple of car payments -- Elderny"
+    },
+    {
+      "text": "The funny thing is, the people who work really hard, they work really hard so they can sit on their ass – they just want to sit on their ass in nicer surroundings -- Elderny"
+    },
+    {
+      "text": "Rich people have small TVs and big libraries, and poor people have small libraries and big TVs -- Elderny"
+    },
+    {
+      "text": "Giving money and power to government is like giving whiskey and car keys to teenage boys -- Elderny"
+    },
+    {
+      "text": "Money can buy you a fine dog, but only love can make him wag his tail -- Elderny"
+    },
+    {
+      "text": "Whoever said money can't buy happiness simply didn't know where to go shopping -- Elderny"
+    },
+    {
+      "text": "I put a dollar in one of those change machines. Nothing changed -- Elderny"
+    },
+    {
+      "text": "You don't get rich by spending your time to save money. You get rich by saving your time to make money -- Elderny"
+    },
+    {
+      "text": "Frugality includes all the other virtues -- Elderny"
+    },
+    {
+      "text": "Be careful to leave your sons well instructed rather than rich, for the hopes of the instructed are better than the wealth of the ignorant -- Elderny"
+    },
+    {
+      "text": "Just because you can afford it doesn't mean you should buy it -- Elderny"
+    },
+    {
+      "text": "If you want to get rich, remember that the way to do it is via equity, not salary -- Elderny"
+    },
+    {
+      "text": "Spend time to earn money. Spend money to earn time -- Elderny"
+    },
+    {
+      "text": "He who works all day has no time to make money -- Elderny"
+    },
+    {
+      "text": "Real wealth is not about money. Real wealth is: not having to go to meetings, not having to spend time with jerks, not being locked into status games, not feeling like you have to say 'yes', not worrying about others claiming your time and energy. Real wealth is about freedom -- Elderny"
+    },
+    {
+      "text": "Human beings are much bigger than just making money -- Elderny"
+    },
+    {
+      "text": "In the Middle Ages, the rich spent their money carelessly on extravagant luxuries, whereas peasants lived frugally minding every penny. Today, the tables have turned. The rich take great care managing their assets and investments while the less well go into debt buying cars and televisions they don't really need -- Elderny"
+    },
+    {
+      "text": "The supreme commandment of the rich is ‘Invest! The supreme commandment of the rest of us is ‘Buy!' -- Elderny"
+    },
+    {
+      "text": "Wealth does not make people happy, but increases in wealth may -- Elderny"
+    },
+    {
+      "text": "Do not spend what is left after spending, but spend what is left after saving -- Elderny"
+    },
+    {
+      "text": "To acquire money requires valor, to keep money requires prudence, and to spend money well is an art -- Elderny"
+    },
+    {
+      "text": "Without wisdom, gold is quickly lost by those who have it -- Elderny"
+    },
+    {
+      "text": "Look to ; and if you have it, praise God, and value it next to a good conscience; for health is the second blessing that we mortals are capable of; a blessing that money cannot buy -- Elderny"
+    },
+    {
+      "text": "Money is better than poverty, if only for financial reasons -- Elderny"
+    },
+    {
+      "text": "It's good to have money and the things that money can buy, but it's good, too, to check up once in a while and make sure that you haven't lost the things that money can't buy. George Lorimer -- Elderny"
+    },
+    {
+      "text": "By sowing frugality , a golden harvest -- Elderny"
+    },
+    {
+      "text": "Money cannot buy peace of mind. It cannot heal ruptured relationships, or build meaning into a life that has none -- Elderny"
+    },
+    {
+      "text": "A wise person should have money in their head, but not in their heart -- Elderny"
+    },
+    {
+      "text": "Never stand begging for that which you have the power to earn -- Elderny"
+    },
+    {
+      "text": "The end goal of money is to take back control of how you spend your time -- Elderny"
+    },
+    {
+      "text": "Not having money to spend doesn't mean we can't have well-spent moments every day -- Elderny"
+    },
+    {
+      "text": "A sign of wealth: No longer needing an alarm clock to wake up -- Elderny"
+    },
+    {
+      "text": "What difference does it make how much you have? What you do not have amounts to much more -- Elderny"
+    },
+    {
+      "text": "Ultimately, there's one investment that supersedes all others: Invest in yourself -- Elderny"
+    }
+  ]
+}
