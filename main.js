@@ -1,25 +1,28 @@
-let get_button = document.getElementById("get_motivation");
-let text_area = document.getElementById("motivation_text");
-
-let Random_number = 0;
+const text_gen = document.getElementById("text_gen");
+const motivate_text = document.getElementById("motivation_text");
+const motivate_percentage = document.getElementById("motivation_percentage");
 let Quote = "";
-
-function genRandomNum(len) {
-    Random_number = (Math.random() * (len - 0) + 0).toFixed(0);
+let Random_num = 0;
+let Random_percentage = 0;
+function RandomGen(max) {
+    return (Math.random() * (max + 0) + 0).toFixed(0);
 }
 
-function genQuote() {
+function GetQuote() {
     fetch("motivation.json")
         .then(res => res.json())
         .then(data => {
-            genRandomNum(data.motivation.length);
-            for (let i = 0; i < data.motivation.length; i++) {
-                Quote = data.motivation[Random_number].text;
-                text_area.innerText = Quote;
-            }
+            Random_num = RandomGen(data.motivation.length);
+            Random_percentage = RandomGen(100);
+            Quote = data.motivation[Random_num].text;
+            motivate_text.innerText = Quote;
+            motivate_percentage.innerText = `${Random_percentage}% motivation`
+            if (Random_percentage >= 90) motivate_percentage.style.backgroundColor = "rgb(152 231 81 / 57%)"
         })
 }
-genQuote()
-get_button.addEventListener("click", () => {
-    genQuote()
+GetQuote();
+if (Random_percentage >= 90) motivate_percentage.style.backgroundColor = "rgb(152 231 81 / 57%)"
+text_gen.addEventListener("click", () => {
+    motivate_percentage.style.backgroundColor = "rgba(0,0,0,.03)";
+    GetQuote();
 })
