@@ -26,3 +26,21 @@ text_gen.addEventListener("click", () => {
     motivate_percentage.style.backgroundColor = "rgba(0,0,0,.03)";
     GetQuote();
 })
+
+function takeshot() {
+    let div = ss_area;
+    html2canvas(div).then(
+        function (canvas) {
+            document
+                .getElementById('output')
+                .appendChild(canvas);
+            document.querySelector("#output > canvas").setAttribute("hidden", "hidden");
+        })
+    setTimeout(() => {
+        saver.href = document.querySelector("#output > canvas").toDataURL("image/jpg");
+        saver.click();
+    }, 500);
+    setTimeout(() => {
+        document.querySelector("#output > canvas").remove();
+    }, 500);
+}
